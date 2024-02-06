@@ -19,7 +19,7 @@ body {
 /* Starting page */
 /* --------------------------------------------------------------------- */
 #frontPage {
-    height: 130%;
+    height: 100%;
     width: 100%;
     background: url('component/cityBackground.jpg');
     background-repeat: no-repeat;
